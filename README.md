@@ -1,6 +1,6 @@
 # Salutations 🙋‍♂️,
 
-Have worked in "Tech" for the last 13 years, currently a Sr Engineer in Cloud Cybersec at a F100.  
+Have worked in _tech_ for the last 13 years, currently a Sr Engineer in Cloud Cybersec.  
 Love building puzzles and passionate about the ARG genre. Currently focusing my spare time on Game Development in Godot! 🙌  
 
 Notable Projects:  
